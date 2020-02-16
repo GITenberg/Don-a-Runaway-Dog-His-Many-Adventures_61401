@@ -1,16 +1,21 @@
 _repo: Don-a-Runaway-Dog-His-Many-Adventures_61401
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Tooker, Harriet H.
     gutenberg_agent_id: '24803'
     url: http://www.gutenberg.org/2009/agents/24803
+covers:
+- cover_type: archival
+  image_path: 61401-h/images/cover.jpg
 creator:
   author:
     agent_name: Barnum, Richard
     gutenberg_agent_id: '3820'
     url: http://www.gutenberg.org/2009/agents/3820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61401#Don-a-Runaway-Dog-His-Many-Adventures
 gutenberg_issued: '2020-02-14'
 gutenberg_type: Text
 identifiers:
